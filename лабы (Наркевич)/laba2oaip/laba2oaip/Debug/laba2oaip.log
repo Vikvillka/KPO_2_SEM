@@ -1,0 +1,19 @@
+﻿Сборка начата 17.03.2023 14:08:48.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы 1 сем\LABS_OAIP\laba2oaip\laba2oaip\laba2oaip.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\laba2oaip.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы 1 сем\LABS_OAIP\laba2oaip\Debug\laba2oaip.exe" /INCREMENTAL /ILK:"Debug\laba2oaip.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы 1 сем\LABS_OAIP\laba2oaip\Debug\laba2oaip.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы 1 сем\LABS_OAIP\laba2oaip\Debug\laba2oaip.lib" /MACHINE:X86 Debug\Source1.obj
+         laba2oaip.vcxproj -> D:\лабы 1 сем\LABS_OAIP\laba2oaip\Debug\laba2oaip.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba2oaip.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba2oaip.tlog\laba2oaip.lastbuildstate".
+     1>Сборка проекта "D:\лабы 1 сем\LABS_OAIP\laba2oaip\laba2oaip\laba2oaip.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.31

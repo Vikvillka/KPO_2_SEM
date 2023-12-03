@@ -1,0 +1,5 @@
+﻿  lab4_1cpp.cpp
+D:\2_СЕМ_ЛАБЫ\KPO 2 sem\Lab04KPO\Lab04KPO\lab4_1cpp.cpp(36): warning C4715: operator<: значение возвращается не при всех путях выполнения
+D:\2_СЕМ_ЛАБЫ\KPO 2 sem\Lab04KPO\Lab04KPO\lab4_1cpp.cpp(24): warning C4715: operator>: значение возвращается не при всех путях выполнения
+D:\2_СЕМ_ЛАБЫ\KPO 2 sem\Lab04KPO\Lab04KPO\lab4_1cpp.cpp(46): warning C4715: operator==: значение возвращается не при всех путях выполнения
+  Lab04KPO.vcxproj -> D:\2_СЕМ_ЛАБЫ\KPO 2 sem\Lab04KPO\Debug\Lab04KPO.exe

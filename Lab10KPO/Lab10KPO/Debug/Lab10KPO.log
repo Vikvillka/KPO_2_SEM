@@ -1,0 +1,23 @@
+﻿Сборка начата 18.05.2023 23:21:56.
+Уровень детализации журнала: Normal.     1>Проект "D:\2_СЕМ_ЛАБЫ\KPO_2_sem\Lab10KPO\Lab10KPO\Lab10KPO.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab10KPO.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab10.cpp
+         lab10.cpp
+     1>D:\2_СЕМ_ЛАБЫ\KPO_2_sem\Lab10KPO\Lab10KPO\lab10.cpp(22,70): error C2672: "operator __surrogate_func": не найдена соответствующая перегруженная функция
+     1>D:\2_СЕМ_ЛАБЫ\KPO_2_sem\Lab10KPO\Lab10KPO\lab10.cpp(22,72): error C2780: auto main::<lambda_83b17622c8819e5906a732627948d6d0>::operator ()(_T1) const: требует аргументов: 1, имеется: 0
+       D:\2_СЕМ_ЛАБЫ\KPO_2_sem\Lab10KPO\Lab10KPO\lab10.cpp(22): message : см. объявление "main::<lambda_83b17622c8819e5906a732627948d6d0>::operator ()"
+     1>Сборка проекта "D:\2_СЕМ_ЛАБЫ\KPO_2_sem\Lab10KPO\Lab10KPO\Lab10KPO.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\2_СЕМ_ЛАБЫ\KPO_2_sem\Lab10KPO\Lab10KPO\Lab10KPO.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\2_СЕМ_ЛАБЫ\KPO_2_sem\Lab10KPO\Lab10KPO\lab10.cpp(22,70): error C2672: "operator __surrogate_func": не найдена соответствующая перегруженная функция
+         D:\2_СЕМ_ЛАБЫ\KPO_2_sem\Lab10KPO\Lab10KPO\lab10.cpp(22,72): error C2780: auto main::<lambda_83b17622c8819e5906a732627948d6d0>::operator ()(_T1) const: требует аргументов: 1, имеется: 0
+
+    Предупреждений: 0
+    Ошибок: 2
+
+Прошло времени 00:00:00.45
